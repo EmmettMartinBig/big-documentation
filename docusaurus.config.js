@@ -5,13 +5,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'BIG Docs',
   tagline: 'Documents live here',
-  url: 'https://emmettmartinbig.github.io',
+  url: 'https://EmmettMartinBig.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Big Digital', // Usually your GitHub org/user name.
-  projectName: 'Big Documentation', // Usually your repo name.
+  organizationName: 'EmmettMartinBig', // Usually your GitHub org/user name.
+  projectName: 'big-documentation', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'BIG Docs',
