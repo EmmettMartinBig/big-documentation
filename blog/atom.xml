@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EmmettMartinBig.github.io/big-documentation/blog"/>
     <subtitle>BIG Docs Blog</subtitle>
-    <icon>https://EmmettMartinBig.github.io/big-documentation/img/favicon.ico</icon>
+    <icon>https://EmmettMartinBig.github.io/big-documentation/img/BigDigital-logo-black.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
