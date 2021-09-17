@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://EmmettMartinBig.github.io/blog</id>
+    <title>BIG Docs Blog</title>
+    <updated>2019-05-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://EmmettMartinBig.github.io/blog"/>
+    <subtitle>BIG Docs Blog</subtitle>
+    <icon>https://EmmettMartinBig.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://EmmettMartinBig.github.io/blog/welcome"/>
+        <updated>2019-05-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the documentaion]]></summary>
+    </entry>
+</feed>
