@@ -6,7 +6,7 @@ module.exports = {
   title: 'BIG Docs',
   tagline: 'Documents live here',
   url: 'https://EmmettMartinBig.github.io',
-  baseUrl: '/',
+  baseUrl: '/big-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
