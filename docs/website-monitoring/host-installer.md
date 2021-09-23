@@ -1,7 +1,10 @@
 ---
-sidebar_label: 'Prometheus Installer (Server Installer)'
+sidebar_label: 'Ubuntu Prometheus Installer (Server Installer)'
 sidebar_position: 2
 ---
+
+## Ubuntu Prometheus Install
+
 Step 1: Log into desired server you wish to monitor
 
 Step 2 : Copy code snippit, and on server:
@@ -11,9 +14,6 @@ vi prom.sh
 ```
 Step 3: Paste from code snippit
 Then:
-```
-sudo bash ./prom.sh
-```
 ```
 #!/bin/sh
 echo "Creating Users for Prometheus"
@@ -198,7 +198,11 @@ echo "Status check of Prometheus"
 sudo systemctl status prometheus
 echo
 ```
+To start the install:
 
+```
+sudo bash ./prom.sh
+```
 ## OPTIONAL STEP SSL (VERY RECOMMENED THOUGH) 
 ```
 sudo su
