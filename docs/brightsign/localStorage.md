@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'localStorage (For Headless CMS)'
-sidebar_position: 2
+sidebar_position: 1
 ---
 # Brightsign localStorage enable for Headless CMS
 
